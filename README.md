@@ -1,1 +1,1 @@
-# SQA-project1
+# SQA-project1Bug Reporting for my cv
